@@ -1,0 +1,1000 @@
+.section-1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+    width: 100%;
+    height: 100px;
+}
+/*---------------------Navigation------------------*/
+.primary-nav{
+    position: relative;
+    left: 160px;
+    top: 24px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+.primary-nav li{
+    display: inline-block;
+    padding: 0px 15px;
+}
+.primary-nav li a {
+    display: inline-block;
+    height: 30px;
+    padding-top: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #4d4d33;
+}
+.primary-nav li a:hover{
+    position: relative;
+    top: 1px;
+    height: 24px;
+
+    background: #f5f5f0;
+    border-radius: 5px;
+}
+/*---------------------End of Navigation------------------*/
+#logotop{
+    position: absolute;
+    left: 130px;
+    top: 20px;
+}
+.login li{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+.login a{
+    position: relative;
+    left: 850px;
+    bottom: 22px;
+
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    padding-right: 20px;
+    color: #4d4d33;
+}
+.login li a:hover{
+    transition: 0.2s ease-in-out;
+
+    font-size: 16px;
+    padding-right: 0px;
+    margin-right: 20px;
+    border-radius: 5px;
+    background: #e0e0d1;
+}
+#job{
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    margin-left: 30px;
+    border: 2px solid lightslategrey;
+    color: lightslategrey;
+}
+#job:hover{
+    background-color: #b8b894;
+    color: white;
+}
+
+
+
+
+.section-2{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+
+    width: 100%;
+    height: 650px;
+}
+/*--------------------- Slider ------------------*/
+.swiper-container {
+    padding-top: 0px;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.swiper-button-next{
+    padding-top: 0px;
+    height: 100px;
+    width: 100px;
+}
+.swiper-button-prev{
+    padding-top: 0px;
+    height: 100px;
+    width: 100px;
+}
+/*--------------------- End of Slider ------------------*/
+
+
+
+
+.section-3{
+    position: absolute;
+    top: 800px;
+    left: 0px;
+     
+    width: 100%;
+    height: 278px;
+    box-sizing: border-box;
+ }
+ .section-3-h1-h1{
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    color: lightslategrey;
+}
+ .section-3-h1{
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    color: #00b3b3;
+}
+ .section-3 p{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+    color: lightslategrey;
+ }
+
+
+
+
+.section-4{
+    box-sizing: border-box;
+    position: absolute;
+    top: 978px;
+    left: 0px;
+
+    width: 100%;
+    height: 498px;
+    background-color: #ebfafa;
+}
+.section-4-info{
+    position: relative;
+    left: 850px;
+    bottom: 375px;
+    width: 450px;
+}
+.section-4-image{
+    width: 785px;
+    height: 498px;
+}
+.section-4-info h1{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    color: #4d4d33;
+}
+.section-4-info p{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+    color: lightslategrey;
+}
+.section-4-info a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #00b3b3;
+}
+
+
+
+
+.section-5{
+    box-sizing: border-box;
+    position: absolute;
+    top: 1476px;
+    left: 0px;
+
+    width: 100%;
+    height: 650px;
+}
+#section-5-container{
+    position: relative;
+    left: 100px;
+}
+#plans-container{
+    text-align: justify;
+    text-indent: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+.section-5 h1{
+    width: 500px;
+    margin: 50px auto;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #4d4d33;
+}
+.section-5 .text{
+    width: 500px;
+    text-align: center;
+    margin: 10px auto;
+    margin-bottom: 60px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.col-4 .near-center{
+    position: relative;
+    left: 5px;
+}
+.underline{
+    text-decoration: underline lightslategrey;
+}
+.col-4 p{
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.number-1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #ff0066;
+}
+.number-2{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.number-3{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #ff0066;
+}
+#basic-plan{
+    text-align: center;
+    margin: 0px 15px;
+    background-color: #ebfafa;
+    box-shadow: 1px 1px 10px #d6d6c2;
+}
+#medium-plan{
+    text-align: center;
+    margin: 0px 15px;
+    background-color: #ff0066;
+    color: white;
+}
+#high-plan{
+    text-align: center;
+    margin: 0px 15px;
+    background-color: #ebfafa;
+    box-shadow: 1px 1px 10px #d6d6c2;
+}
+#basic-plan-info{
+    margin: 0px 15px;
+    box-shadow: 1px 1px 10px #d6d6c2;
+}
+#medium-plan-info{
+    margin: 0px 15px;
+    box-shadow: 1px 1px 10px #d6d6c2;
+}
+#high-plan-info{
+    margin: 0px 15px;
+    box-shadow: 1px 1px 10px #d6d6c2;
+}
+
+
+
+
+.section-6{
+    box-sizing: border-box;
+    position: absolute;
+    top: 2126px;
+    left: 0px;
+
+    width: 100%;
+    height: 600px;
+    text-align: center;    
+    background-color: #ebfafa;
+}
+.find, .hire, .work, .pay{
+    width: 128px;
+    height: 128px;
+    font-family: 'Merriweather', serif;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #ff0066;
+}
+.section-6-how{
+    padding-top: 60px;
+    font-family: 'Merriweather', serif;
+    color: #4d4d33;
+}
+.section-6 p{
+    line-height: 1.5em;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: lightslategrey;
+}
+.section-6-mission{
+    padding-bottom: 40px;
+}
+
+
+
+
+.section-7{
+    position: absolute;
+    top: 2726px;
+    left: 0px;
+
+    width: 100%;
+    height: 250px;
+    text-align: center;
+}
+.logobottom{
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.section-7-form{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.section-7-button{
+    position: relative;
+    right: 5px;
+
+    margin-left: 0px;
+    height: 32px;
+    width: 100px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #ff0066;
+    border: 1px solid #ff0066;
+    color: white;
+}
+.section-7-button:hover{
+    background-color: #99003d;
+}
+.section-7-button:active{
+    height: 35px;
+}
+.section-7-input{
+    margin-right: 0px;
+    height: 30px;
+    width: 200px;
+}
+.section-7 a{
+    text-decoration: none;
+}
+.section-7 p{
+    line-height: 1.5em;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: lightslategrey;   
+}
+html, body { 
+    width: 100%; 
+    height: 100%; 
+    margin: 0px; 
+    padding: 0px; 
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and
+    (max-device-width: 1300px)
+and (min-device-width: 800px){
+    
+    #logotop {
+    position: absolute;
+    left: 20px;
+}
+
+.page .primary-nav li a {
+    position: relative;
+    left: -100px;
+    bottom: -10px;
+}
+.page .section-1 li a {
+    font-size: 12px;
+}
+.login {
+    position: relative;
+    left: -250px;
+    font-size: 28px;
+    bottom: 15px;
+}
+.swiper-container {
+    width: 100%;
+    float: left;
+}
+.section-3 .container .row h1,
+.section-3 .container .row p {
+    font-size: 14px;
+}
+.section-3 .container .row {
+    position: relative;
+    left: 30px;
+}
+.section-4-image {
+    width: 700px;
+    height: 250px;
+    position: relative;
+    left: 100px;
+}
+.section-4 h1,
+.section-4 p,
+.section-4 h6 {
+    font-size: 12px;
+    position: relative;
+    left: -750px;
+    bottom: -400px;
+}
+.section-5-content {
+    position: relative;
+    left: -75px;
+}
+.section-5 .text {
+    font-size: 10px;
+}
+.section-5-top {
+    position: relative;
+    left: 20px;
+}
+#basic-plan-info p {
+    font-size: 10px;
+    text-indent: 0px;
+}
+#medium-plan-info p {
+    font-size: 10px;
+    text-indent: 0px;
+
+}
+#high-plan-info p {
+    font-size: 10px;
+    text-indent: 0px;
+}
+#high-plan {
+    text-align: center;
+    font-size: 12px;
+}
+.find,
+.hire,
+.work,
+.pay {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+}
+.section-6-content h1,
+.section-6-content p {
+    font-size: 12px;
+    position: relative;
+    left: 100px;
+}
+.section-6-content .section-6-how,
+.section-6-content .section-6-mission {
+    position: relative;
+    left: -20px;
+}
+.section-7-content {
+    position: relative;
+    left: 0px;
+}
+}
+
+
+
+
+@media screen and
+    (max-device-width: 800px)
+and (min-device-width: 480px){
+    
+    #logotop {
+     position: absolute;
+     left: 20px;
+ }
+ .page .primary-nav li a {
+     position: relative;
+     left: -100px;
+     bottom: -10px;
+ }
+ .page .section-1 li a {
+     font-size: 12px;
+ }
+ .login {
+     position: absolute;
+     left: -630px;
+     font-size: 28px;
+     bottom: 12px;
+ }
+ .swiper-container {
+     position: relative;
+     bottom: -15px;
+     width: 100%;
+     float: left;
+ }
+ .section-3 .container .row h1,
+ .section-3 .container .row p {
+     font-size: 14px;
+ }
+ .section-3 .container .row {
+     position: relative;
+     left: -10px;
+ }
+ .section-4 {
+     position: absolute;
+     left: 20px;
+ }
+ .section-4-image {
+     padding-top: 10px;
+     width: 350px;
+     height: 250px;
+     position: relative;
+     left: 100px;
+ }
+ .section-4 h1,
+ .section-4 p,
+ .section-4 h6 {
+     font-size: 12px;
+     position: relative;
+     left: -750px;
+     bottom: -400px;
+ }
+ .section-4 p,
+ .section-4 h6 {
+     position: relative;
+     left: -810px;
+ }
+ .section-5 {
+     position: absolute;
+     left: -90px;
+ }
+ .section-5 .text {
+     font-size: 13px;
+ }
+ .section-5-top h1,
+ .section-5-top p {
+     overflow: scroll;
+ }
+ #basic-plan-info p {
+     font-size: 10px;
+     text-indent: 0px;
+ }
+ #medium-plan-info p {
+     font-size: 10px;
+     text-indent: 0px;
+ }
+ #high-plan-info p {
+     font-size: 10px;
+     text-indent: 0px;
+ }
+ #high-plan {
+     text-align: center;
+     font-size: 12px;
+ }
+ .find,
+ .hire,
+ .work,
+ .pay {
+     width: 50px;
+     height: 50px;
+     position: relative;
+     left: 100px;
+ }
+ .section-6-content h1,
+ .section-6-content p {
+     font-size: 12px;
+     position: relative;
+     left: 100px;
+ }
+ .section-6 {
+     position: absolute;
+     left: 24px;
+ }
+ .section-6-content .section-6-how,
+ .section-6-content .section-6-mission {
+     position: relative;
+     left: -20px;
+ }
+ .section-7-content {
+     position: relative;
+     left: 10px;
+ }
+}
+
+
+
+
+@media screen and 
+    (max-device-width: 574px)
+and (min-device-width: 482px){
+    
+    #section-5-container {
+    position: absolute;
+    bottom: -350px;
+}
+.section-5 .text {
+    font-size: 10px;
+}
+.section-5-top {
+    position: relative;
+    left: 80px;
+    bottom: 20px;
+    font-size: 12px;
+    overflow: scroll;
+}
+.section-5 h1 {
+    font-size: 12px;
+}
+.section-6-content h1,
+.section-6-content p {
+    font-size: 12px;
+    position: relative;
+    left: 100px;
+}
+.section-6 {
+    position: absolute;
+    left: 24px;
+    top: 2500px;
+    overflow: scroll;
+}
+.section-6-content .section-6-how,
+.section-6-content .section-6-mission {
+    position: relative;
+    left: -20px;
+}
+.section-7-content {
+    position: relative;
+    left: 10px;
+    bottom: -350px;
+}
+}
+
+
+
+
+@media screen and
+    (max-device-width: 480px)
+and (min-device-width: 320px){
+    
+    .swiper-button-next,
+    .swiper-button-prev {
+     width: 30px;
+     height: 30px;
+ }
+ #logotop {
+     position: absolute;
+     left: 20px;
+ }
+ .primary-nav {
+     position: relative;
+     left: 180px;
+
+     width: 50%;
+     margin: 0px;
+     padding: 0px;
+ }
+ .primary-nav li a {
+     padding-right: 0px;
+ }
+ .primary-nav li {
+     padding-right: 0px;
+ }
+ .page .primary-nav li a {
+     position: relative;
+     left: -105px;
+     bottom: -15px;
+ }
+ .page .section-1 li a {
+     font-size: 12px;
+ }
+ .login {
+     position: absolute;
+     left: -800px;
+     font-size: 14px;
+     bottom: 30px;
+ }
+ #job {
+     margin-left: 0px;
+ }
+ .section-2 {
+     position: absolute;
+     top: 140px;
+ }
+ .swiper-container {
+     position: relative;
+     bottom: -45px;
+     width: 100%;
+     height: 40%;
+     float: left;
+ }
+ .section-3 .container .row h1,
+ .section-3 .container .row p {
+     font-size: 11.5px;
+     position: relative;
+     bottom: 350px;
+     left: -40px;
+     overflow: scroll;
+ }
+ #tasks,
+ #projects,
+ #work {
+     position: relative;
+     left: -20px;
+ }
+ #scope {
+     position: relative;
+     right: -30px;
+ }
+ #tasks {
+     position: relative;
+     left: 5px;
+ }
+ #projects {
+     position: relative;
+     left: 1px;
+ }
+ #work {
+     position: relative;
+     left: -10px;
+ }
+ .section-4 {
+     width: 100%;
+     position: absolute;
+     left: 5px;
+     top: 650px;
+     height: 370px;
+     overflow: hidden;
+ }
+ .section-4-image {
+     padding-top: 10px;
+     width: 100%;
+     height: 150px;
+     position: relative;
+     left: 0px;
+     bottom: 10px;
+ }
+ p .break {
+     display: block;
+ }
+ .section-4 h1,
+ .section-4 p,
+ .section-4 h6 {
+     font-size: 10px;
+     position: relative;
+     left: -835px;
+     bottom: -400px;
+ }
+ #section-5-container {
+     position: absolute;
+     bottom: 50px;
+     left: -10px
+ }
+ .section-5 .text {
+     font-size: 10px;
+ }
+ .section-5-top {
+     position: relative;
+     left: -50px;
+     bottom: 440px;
+     font-size: 12px;
+     overflow: hidden;
+ }
+ .section-5 h1 {
+     font-size: 11px;
+ }
+ #basic-plan-info p {
+     font-size: 10px;
+     text-indent: 0px;
+ }
+ #medium-plan-info p {
+     font-size: 10px;
+     text-indent: 0px;
+ }
+ #high-plan-info p {
+     font-size: 10px;
+     text-indent: 0px;
+ }
+ #high-plan {
+     text-align: center;
+     font-size: 12px;
+ }
+ .find,
+ .hire,
+ .work,
+ .pay {
+     width: 50px;
+     height: 50px;
+     position: relative;
+     left: 100px;
+ }
+ .section-6-content h1,
+ .section-6-content p,
+ .section-6-content img {
+     font-size: 12px;
+     position: relative;
+     left: 30px;
+     bottom: 35px;
+ }
+ .section-6 {
+     width: 100%;
+     position: absolute;
+     left: 6px;
+     top: 2090px;
+     overflow: hidden;
+ }
+ .section-6-content .section-6-how,
+ .section-6-content .section-6-mission {
+     position: relative;
+     left: -20px;
+ }
+ .section-7-content {
+     position: relative;
+     left: 10px;
+     bottom: 30px;
+ }
+}
+
+
+
+
+@media only screen and
+    (max-device-width: 320px)
+and (min-device-width: 140px){
+.swiper-button-next, .swiper-button-prev {
+    width: 30px;
+    height: 30px;
+}
+#logotop {
+    position: absolute;
+    left: 20px;
+    top: 55px;
+}
+.page .primary-nav li a {
+    position: relative;
+    left: -100px;
+    bottom: -10px;
+}
+.page .section-1 li a {
+    font-size: 12px;
+}
+.login {
+    position: absolute;
+    left: -830px;
+    font-size: 14px;
+    bottom: 30px;
+}
+#job {
+    margin-left: 0px;
+}
+.swiper-container {
+    position: relative;
+    bottom: -165px;
+    width: 100%;
+    height: 40%;
+    float: left;
+}
+.section-3 .container .row h1,
+.section-3 .container .row p {
+    font-size: 14px;
+    position: relative;
+    bottom: 250px;
+    left: -40px;
+    overflow: scroll;
+}
+.section-3 .container .row {
+    position: relative;
+    left: 30px;
+}
+p .break {
+    display: block;
+}
+.section-4 {
+    position: absolute;
+    left: -10px;
+    top: 850px;
+    overflow: auto;
+}
+.section-4-image {
+    padding-top: 10px;
+    width: 100%;
+    height: 150px;
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+}
+.section-4 h1,
+.section-4 p,
+.section-4 h6 {
+    font-size: 12px;
+    position: relative;
+    left: -830px;
+    bottom: -400px;
+}
+#section-5-container {
+    position: absolute;
+    bottom: -250px;
+    left: -10px
+}
+.section-5 .text {
+    font-size: 10px;
+}
+.section-5-top {
+    width: 100%;
+    position: relative;
+    left: -90px;
+    bottom: 150px;
+    font-size: 12px;
+    overflow: auto;
+}
+.section-5 h1 {
+    font-size: 12px;
+}
+#basic-plan-info p {
+    font-size: 10px;
+    text-indent: 0px;
+}
+#medium-plan-info p {
+    font-size: 10px;
+    text-indent: 0px;
+}
+#high-plan-info p {
+    font-size: 10px;
+    text-indent: 0px;
+}
+#high-plan {
+    text-align: center;
+    font-size: 12px;
+}
+.find,
+.hire,
+.work,
+.pay {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+}
+.section-6-content h1,
+.section-6-content p,
+.section-6-content img {
+    font-size: 12px;
+    position: relative;
+    left: 30px;
+}
+.section-6 {
+    position: absolute;
+    left: 0px;
+    top: 2390px;
+    overflow: scroll;
+}
+.section-6-content .section-6-how,
+.section-6-content .section-6-mission {
+    position: relative;
+    left: 0px;
+    overflow: scroll;
+}
+.section-7-content {
+    position: relative;
+    left: 10px;
+    bottom: -250px;
+}
+}
